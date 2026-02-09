@@ -1,1 +1,3 @@
-# NizarKhan1.github.io
+# Nizar Khan - Portfolio Website
+
+Personal resume and portfolio website
